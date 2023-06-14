@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#skill {
+  background-color: #e2edff;
+}
+
+.card-body i {
+  font-size: 50px;
+}
+
+section {
+  padding-top: 5rem;
+}
